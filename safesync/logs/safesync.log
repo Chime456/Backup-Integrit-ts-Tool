@@ -1,0 +1,34 @@
+[INFO]  11:32:08 ====== SafeSync gestartet: 2026-04-22 11:32:08 ======
+[INFO]  11:32:08 Prüfe Quellverzeichnisse...
+[INFO]  11:32:08   OK: /home/nehir/Backup-Integrit-ts-Tool/safesync/test_src/docs
+[INFO]  11:32:09   OK: /home/nehir/Backup-Integrit-ts-Tool/safesync/test_src/photos
+[INFO]  11:32:09 Erstelle Archiv: /home/nehir/Backup-Integrit-ts-Tool/safesync/backup/backup_20260422_113208.tar.gz
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[INFO]  11:32:09 Archiv fertig: 4.0K in 0s
+[INFO]  11:32:09 Prüfsumme: 740c7858391dbe9ab77ca282654f57b7  /home/nehir/Backup-Integrit-ts-Tool/safesync/backup/backup_20260422_113208.tar.gz
+[ERROR] 11:32:09 Prüfsumme FEHLGESCHLAGEN ✗
+[INFO]  11:33:43 ====== SafeSync gestartet: 2026-04-22 11:33:43 ======
+[INFO]  11:33:43 Prüfe Quellverzeichnisse...
+[INFO]  11:33:43   OK: /home/nehir/Backup-Integrit-ts-Tool/safesync/test_src/docs
+[INFO]  11:33:43   OK: /home/nehir/Backup-Integrit-ts-Tool/safesync/test_src/photos
+[INFO]  11:33:43 Erstelle Archiv: /home/nehir/Backup-Integrit-ts-Tool/safesync/backup/backup_20260422_113343.tar.gz
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[INFO]  11:33:43 Archiv fertig: 4.0K in 0s
+[INFO]  11:33:43 Prüfsumme: 740c7858391dbe9ab77ca282654f57b7  /home/nehir/Backup-Integrit-ts-Tool/safesync/backup/backup_20260422_113343.tar.gz
+[ERROR] 11:33:43 Prüfsumme FEHLGESCHLAGEN ✗
+[INFO]  11:35:12 ====== SafeSync gestartet: 2026-04-22 11:35:12 ======
+[INFO]  11:35:12 Prüfe Quellverzeichnisse...
+[INFO]  11:35:12   OK: /home/nehir/Backup-Integrit-ts-Tool/safesync/test_src/docs
+[INFO]  11:35:12   OK: /home/nehir/Backup-Integrit-ts-Tool/safesync/test_src/photos
+[INFO]  11:35:12 Erstelle Archiv: /home/nehir/Backup-Integrit-ts-Tool/safesync/backup/backup_20260422_113512.tar.gz
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[INFO]  11:35:12 Archiv fertig: 4.0K in 0s
+[INFO]  11:35:12 Prüfsumme: 740c7858391dbe9ab77ca282654f57b7  /home/nehir/Backup-Integrit-ts-Tool/safesync/backup/backup_20260422_113512.tar.gz
+[INFO]  11:35:12 Prüfsumme OK ✓
+[INFO]  11:35:12 Übertrage nach /home/nehir/Backup-Integrit-ts-Tool/safesync/test_dst ...
+[INFO]  11:35:12 Übertragung erfolgreich ✓
+[INFO]  11:35:12 0 alte Backup(s) gelöscht
+[INFO]  11:35:12 ====== Backup abgeschlossen ======
